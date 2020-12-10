@@ -10,7 +10,7 @@ If I need to map promoteMyBiz repository in my local machine this is what I can 
 
 Using command prompt :
 
-(1) Create a directory in your laptop or desktop like C:\Users\promoteMyBiz
+(1) Create a directory in your laptop or desktop like C:\Users\promoteMyBiz</BR>
 (2) Install git client on your machine from https://git-scm.com/download/win
 (3) This will be installed in "C:\Program Files\Git" directory on windows 10 OS
 (4) Create shortcut on desktop for git-bash.exe or git-cmd.exe. These programs resides in "C:\Program Files\Git\bin" directory
